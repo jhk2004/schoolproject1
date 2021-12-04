@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/schoolproject1/static/css/main.8fdc7afd.chunk.css",
+    "main.css": "/schoolproject1/static/css/main.747435cb.chunk.css",
     "main.js": "/schoolproject1/static/js/main.e16f2043.chunk.js",
     "main.js.map": "/schoolproject1/static/js/main.e16f2043.chunk.js.map",
     "runtime-main.js": "/schoolproject1/static/js/runtime-main.bd4f5c96.js",
@@ -10,7 +10,7 @@
     "static/js/3.ad481cd3.chunk.js": "/schoolproject1/static/js/3.ad481cd3.chunk.js",
     "static/js/3.ad481cd3.chunk.js.map": "/schoolproject1/static/js/3.ad481cd3.chunk.js.map",
     "index.html": "/schoolproject1/index.html",
-    "static/css/main.8fdc7afd.chunk.css.map": "/schoolproject1/static/css/main.8fdc7afd.chunk.css.map",
+    "static/css/main.747435cb.chunk.css.map": "/schoolproject1/static/css/main.747435cb.chunk.css.map",
     "static/js/2.83290e9e.chunk.js.LICENSE.txt": "/schoolproject1/static/js/2.83290e9e.chunk.js.LICENSE.txt",
     "static/media/shopping-cart.96c73cb4.png": "/schoolproject1/static/media/shopping-cart.96c73cb4.png",
     "static/media/star.d0cbd94e.png": "/schoolproject1/static/media/star.d0cbd94e.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.bd4f5c96.js",
     "static/js/2.83290e9e.chunk.js",
-    "static/css/main.8fdc7afd.chunk.css",
+    "static/css/main.747435cb.chunk.css",
     "static/js/main.e16f2043.chunk.js"
   ]
 }
